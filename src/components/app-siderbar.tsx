@@ -22,7 +22,6 @@ import {
     SidebarMenuSub,
     SidebarMenuSubButton,
     SidebarMenuSubItem,
-    SidebarSeparator,
   } from "./ui/sidebar";
   import Link from "next/link";
   import Image from "next/image";
@@ -37,7 +36,6 @@ import {
     CollapsibleContent,
     CollapsibleTrigger,
   } from "./ui/collapsible";
-import { useState } from "react";
 import { items } from "@/static/datas";
 
 const AppSiderbar = () => {

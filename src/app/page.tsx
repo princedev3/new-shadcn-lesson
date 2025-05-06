@@ -3,8 +3,6 @@ import { AreaChartBar } from "@/components/area-chart";
 import BarChartComp from "@/components/bar-chart";
 import CardList from "@/components/cardlist/card-list";
 import TodoList from "@/components/todo/todo-list";
-import { Button } from "@/components/ui/button";
-import Image from "next/image";
 
 export default function Home() {
   return (
