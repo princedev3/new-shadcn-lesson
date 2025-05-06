@@ -1,6 +1,5 @@
 "use client"
 import React from 'react'
-import { TrendingUp } from "lucide-react"
 import { Label, Pie, PieChart } from "recharts"
 import {
     ChartConfig,
