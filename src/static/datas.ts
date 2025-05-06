@@ -4,11 +4,6 @@ import {
     Calendar,
     Search,
     Settings,
-    User2,
-    ChevronUp,
-    Plus,
-    Projector,
-    ChevronDown,
   } from "lucide-react";
 export const items = [
     {
